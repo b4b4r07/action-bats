@@ -1,0 +1,5 @@
+name: 'bats'
+description: 'Run bats command'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
